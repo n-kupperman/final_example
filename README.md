@@ -10,5 +10,6 @@
 
 ## Requirements for `README.md`
 * URL to deployed dashboard
+* A short blurb describing your dashboard - what questions does it answer, who is it for, motivation for building it, etc
 * Text describing your dashboard building process including data science concepts you used or learned along the way.
 * Highlight strengths and learning experiences for future employers. 
