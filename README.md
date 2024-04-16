@@ -4,7 +4,9 @@
 * `app.py`
 * `requirements.txt`
 * `data` folder that included original dataset, data cleaning script, and clean dataset for dashboard use
+* `sprints` folder containing your user personas and layout
 * `README.md`
+* *optional* `assets` folder
 
 ## Requirements for `README.md`
 * URL to deployed dashboard
